@@ -1,0 +1,16 @@
+pole0 = (-0.950832,6.61318)
+pole1 = (-2.77547,6.07742)
+pole2 = (-4.37525,5.04931)
+pole3 = (-5.62057,3.61212)
+pole4 = (-6.41055,1.88231)
+pole5 = (-6.68119,8.1821e-16)
+pole6 = (-6.41055,-1.88231)
+pole7 = (-5.62057,-3.61212)
+pole8 = (-4.37525,-5.04931)
+pole9 = (-2.77547,-6.07742)
+pole10 = (-0.950832,-6.61318)
+*gain = 1.18411e+09
+Saving result to Bode plot of Butterworth LPF
+Saving result to Impulse response of Butterworth LPF
+Saving result to Step response of Butterworth LPF
+Saving result to Poles and Zeros  of Butterworth LPF
